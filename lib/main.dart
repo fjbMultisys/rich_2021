@@ -4,10 +4,10 @@ void main() {
   runApp(
     MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.blueGrey,
+        backgroundColor: Colors.white54,
         appBar: AppBar(
           title: Center(
-            child: Text('Northern Lights'),
+            child: Text('Shinee ✨'),
           ),
           backgroundColor: Colors.green,
         ),
